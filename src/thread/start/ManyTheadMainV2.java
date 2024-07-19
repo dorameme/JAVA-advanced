@@ -1,8 +1,6 @@
 package thread.start;
 
-import static util.MyLogger.*;
-
-import util.MyLogger;
+import static util.MyLogger.log;
 
 public class ManyTheadMainV2 {
 
